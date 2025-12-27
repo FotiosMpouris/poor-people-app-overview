@@ -30,6 +30,8 @@ Traditional volunteer coordination fails because it's vague ("can you help somet
 
 ## 🏗️ Technical Architecture
 
+📊 **[View System Architecture Diagram](diagrams/system-architecture.md)** | **[Trust Ladder](diagrams/trust-ladder.md)** | **[User Flow](diagrams/user-flow.md)**
+
 ### Stack
 
 **Frontend:**
