@@ -6,6 +6,23 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ---
+---
+
+## 💰 Economic Layer: Bitcoin & Poor People Coin
+
+**PPA is building toward a tokenized mutual aid economy** using Bitcoin reserves and a utility token (Poor People Coin - PPC) to create sustainable incentives for community coordination.
+
+**Key Points:**
+- **Bitcoin Treasury** - Platform reserves held in BTC as inflation hedge
+- **PPC Utility Token** - Earned through verified service provision, spent to access platform features
+- **Not an investment** - Tokens coordinate services, not speculative returns
+- **Nostr Integration** - Native Lightning payments, portable reputation, censorship resistance
+
+**⚠️ Current Status:** Research & development phase. No tokens offered or sold. Future implementation contingent on legal compliance and community validation.
+
+📖 **[Read Full Tokenomics & Bitcoin Strategy](docs/tokenomics-and-bitcoin.md)**
+
+---
 
 ## 🎯 What We're Building
 
